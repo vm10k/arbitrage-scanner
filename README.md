@@ -4,7 +4,7 @@
 
 **Version:** 1.0
 **License:** MIT
-**Live Tool:** [https://arbscan.ct.ws/](https://arbscan.ct.ws/)
+**Live Tool:** [https://arbscan.ct.ws/](https://arbscan.ct.ws/) or Github Page: https://vm10k.github.io/arbitrage-scanner/
 
 ## Overview
 
