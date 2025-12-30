@@ -17,6 +17,7 @@
   <!-- Main Title -->
   <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="80" fill="#ffffff" letter-spacing="4">
     ARB <tspan fill="#10b981">SCAN</tspan>
+    
   </text>
   
   <!-- Subtitle -->
