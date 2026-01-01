@@ -15,7 +15,7 @@
   <line x1="0" y1="295" x2="1200" y2="295" stroke="#10b981" stroke-width="10" />
 
   <!-- Main Title -->
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="80" fill="#ffffff" letter-spacing="4">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="80" fill="#ffffff" letter-spacing="4">
     ARB <tspan fill="#10b981">SCAN</tspan>
   </text>
  >
