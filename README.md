@@ -4,12 +4,12 @@
 
 **Version:** 1.0
 
-<img width="1050" height="724" alt="image" src="https://github.com/user-attachments/assets/8be2ad4b-d208-4f48-88b1-744375659b2c" />
-
 **Live Tool:** [https://arbscan.ct.ws/](https://arbscan.ct.ws/) or Github Pages: https://vm10k.github.io/arbitrage-scanner/
 
 **Discord:** https://discord.gg/SGgnvyjFn5
 ## Overview
+
+<img width="1050" height="724" alt="image" src="https://github.com/user-attachments/assets/6a977ae1-fa00-46ef-88bd-7abf100521e6" />
 
 ARBSCAN is a lightweight, client-side arbitrage scanning tool designed to identify price discrepancies for identical assets across different blockchain networks. By leveraging the DexScreener API, the application iterates through predefined lists of tokens to find pairing opportunities where a token can theoretically be bought on one chain and sold on another for a net profit.
 
