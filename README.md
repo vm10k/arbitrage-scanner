@@ -4,6 +4,8 @@
 
 **Version:** 1.0
 
+<img width="1050" height="724" alt="image" src="https://github.com/user-attachments/assets/8be2ad4b-d208-4f48-88b1-744375659b2c" />
+
 **Live Tool:** [https://arbscan.ct.ws/](https://arbscan.ct.ws/) or Github Pages: https://vm10k.github.io/arbitrage-scanner/
 
 **Discord:** https://discord.gg/SGgnvyjFn5
