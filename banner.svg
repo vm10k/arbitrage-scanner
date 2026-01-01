@@ -19,7 +19,8 @@
     ARB <tspan fill="#10b981">SCAN</tspan>
     
   </text>
-  
+    </text>   
+    </text>
   <!-- Subtitle -->
   <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#94a3b8" letter-spacing="2">
     CROSS-CHAIN ARBITRAGE SCANNER // v1.0
